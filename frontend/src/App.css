@@ -16,6 +16,8 @@ body {
   font-weight: bold;
   letter-spacing: 2px;
 }
+
+/* for white btn */
 .white-btn {
   background: #fff;
   color: #111;
@@ -24,6 +26,8 @@ body {
   background: #9083d5;
   color: #fff;
 }
+
+/* making font size of p,span and anchor tag 20px at same time */
 p,
 span,
 a {
